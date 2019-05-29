@@ -20,7 +20,6 @@ BeautifulSoup4
 
 * [Atom] (https://atom.io/) - Text editor
 * [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Used to read/extract HTML from Wikipedia
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## License
 
