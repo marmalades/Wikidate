@@ -7,9 +7,9 @@ This project shows what happened on the entered date. User enters a date and inf
 Libraries needed for this project
 
 ```
-pip *(to install requests)*
-requests _(to get Wikipedia text)_
-BeautifulSoup4 ## (to pull data from HTML/XML)
+pip (to install requests)
+requests (to get Wikipedia text)
+BeautifulSoup4 (to pull data from HTML/XML)
 ```
 
 ## Built With
