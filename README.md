@@ -2,6 +2,12 @@
 
 This project shows what happened on the entered date. User enters a date and information is pulled from Wikipedia. 
 
+## In Progress
+
+I will be adding functionality to this project. Currently working on:
+
+ - GUI using Tkinter
+
 ### Prerequisites
 
 Libraries needed for this project
@@ -9,18 +15,18 @@ Libraries needed for this project
 ```
 pip (to install requests)
 requests (to get Wikipedia text)
-BeautifulSoup4 (to pull data from HTML/XML)
+Beautiful Soup 4 (to pull data from HTML/XML)
+Tkinter (GUI)
 ```
 
 ## Built With
 
 * [Atom](https://atom.io/) - Text editor
-* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Used to read/extract HTML from Wikipedia
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Switched from text editor to IDE as project grew
+* [Wikipedia](Wikipedia.org) - For providing the information needed
 
 ## Acknowledgments
 
 * Thanks to Wikipedia for being awesome!
+* Thanks to JetBrains for having a great student license for their IDE!
+* Thank you, for reading the README.md
