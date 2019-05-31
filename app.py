@@ -4,6 +4,17 @@ HEIGHT = 500
 WIDTH = 600
 
 
+
+# TODO:
+# Accept non 4 digit years
+# Error handling for entry
+# Label scrollbar
+# text formatting on output
+# Clean up GUI
+# Add more functions
+
+
+
 def get_info(user_date):
     print("This is date: ", user_date)
 
